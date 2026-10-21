@@ -164,6 +164,7 @@ A curated collection of fantastic software, libraries, documents, books, and res
 * [DNS-BH](https://www.malwaredomains.com/) – listing of domains known to propagate malware and spyware.
 * [Emerging Threats - Open Source](https://doc.emergingthreats.net/) – open source community providing Suricata and Snort rules, firewall rules and IDS rulesets.
 * [FireEye OpenIOCs](https://github.com/fireeye/iocs) – FireEye publicly shared Indicators of Compromise.
+* [ICHI - Internet Cyber Health Index](https://ichi.global) – free, source-transparent daily barometer of global Internet cyber health, aggregating telemetry from 100+ public feeds into a single index; creator-maintained.
 * [IntelMQ](https://github.com/certtools/intelmq/) – solution for CERTs for collecting and processing security feeds using a message queue protocol.
 * [Internet Storm Center](https://www.dshield.org/reports.html) – free analysis and warning service for Internet threats.
 * [MISP](https://www.misp-project.org/) – open source threat intelligence and sharing platform.
