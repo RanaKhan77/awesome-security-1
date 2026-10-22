@@ -302,6 +302,7 @@ A curated collection of fantastic software, libraries, documents, books, and res
 * [Vuls](https://github.com/future-architect/vuls) – vulnerability scanner for Linux, FreeBSD and containers.
 
 ---
+* [Website Vulnerability Scanner](https://github.com/RanaKhan77/Website-Vulnerability-Scanner) – self-hosted website vulnerability scanner with 200 deterministic modules covering OWASP, CMS, and AI surfaces.
 
 ## 👤 Identity / Access Management
 
