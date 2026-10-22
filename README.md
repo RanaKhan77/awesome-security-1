@@ -324,6 +324,7 @@ A curated collection of fantastic software, libraries, documents, books, and res
 
 * [Android Security Awesome](https://github.com/ashishb/android-security-awesome) – collection of Android security related resources.
 * [Awesome CTF](https://github.com/apsdehal/awesome-ctf) – curated list of CTF frameworks, libraries, resources and software.
+* [Awesome Cyber Security Heaven](https://github.com/RanaKhan77/awesome-cyber-security-heaven) – curated list of 490 license-verified free cybersecurity tools across 14 themed realms.
 * [Awesome Cyber Skills](https://github.com/joe-shenouda/awesome-cyber-skills) – curated list of legal hacking environments to train cyber skills.
 * [Awesome Hacking](https://github.com/carpedm20/awesome-hacking) – curated list of hacking tutorials, tools and resources.
 * [Awesome Honeypots](https://github.com/paralax/awesome-honeypots) – awesome list of honeypot resources.
